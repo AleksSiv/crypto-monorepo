@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Backend build
+backend/dist/
+
+# Frontend build
+frontend/.next/
+frontend/node_modules/
+
+# Dependencies
+node_modules/
+
+# Docker stuff
+*.pid
+*.sock
+
+# OS
+.DS_Store
+Thumbs.db
